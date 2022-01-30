@@ -14,3 +14,23 @@ With included example text:
 ```
 php runme.php the_raven.txt
 ```
+
+### Example output
+
+```
+$ php runme.php the_raven.txt 
+
+dreary
+weary
+tapping
+rapping
+door
+more
+beating
+repeating
+napping
+rapping
+unbroken
+no token
+Quoth the Raven “Nevermore.”
+```
